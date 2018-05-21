@@ -6,7 +6,7 @@ I have used this book to try to write down how some things work, but at the same
 
 Also, this book is just a collection of stuff that is available on the interwebz. I am just a simple collector. I have tried to include a reference section to show where I found the technique. This book is my way of trying to give something back to the infosec community and I hope it can be useful to someone.
 
-You can read this book on [https://xapax.gitbooks.io/security/content/](https://xapax.gitbooks.io/security/content/). If you feel like contributing, or just forking it, you can do that from its github repo here: [https://github.com/xapax/security](https://github.com/xapax/security). If you feel like this is a good start, but you want to add and remove things and just make it yours you can just fork it and do whatever you want with it.
+You can read this book on [https://infrascloudy.gitbook.io/security/](https://infrascloudy.gitbook.io/security/). If you feel like contributing, or just forking it, you can do that from its github repo here: [https://github.com/allanice001/security/](https://github.com/allanice001/security). If you feel like this is a good start, but you want to add and remove things and just make it yours you can just fork it and do whatever you want with it.
 
 ## Find practical examples
 
